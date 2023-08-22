@@ -44,7 +44,7 @@ ___
 *Commandes à utiliser pour installer le projet sur une machine*
 
 ```
-git clone 
+git clone https://github.com/bunnyhopper363/RPG-Dart.git
 ```
 ___
 
